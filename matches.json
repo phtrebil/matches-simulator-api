@@ -1,1 +1,19 @@
-
+[
+  {
+    "descricao": "ELimitórias Copa 2022",
+    "Locoal": {
+      "nome": "Maracana",
+      "imagem": "TODO"
+    },
+    "Mandante": {
+      "nome": "Brasil",
+      "Forca": 5,
+      "imagem": "TODO"
+    }
+    "Visitante":{
+      "nome": "Argentina",
+      "Forca": 5,
+      "imagem": "TODO"
+    }
+  }  
+]
